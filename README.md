@@ -8,3 +8,8 @@
 <img src = "https://github.com/user-attachments/assets/decdc0a0-5f9f-4f70-b49c-bfa8196da95b" width="30" height="30">
 
 🆕 Checkout my latest project: [Demographic dataset analyze](https://github.com/Yowise/demographic_dataset.git)
+
+![PenguinSelfCareGIF](https://github.com/user-attachments/assets/3f6bcb61-987a-4832-a11c-c0b4c440eb7b)
+
+
+
