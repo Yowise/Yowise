@@ -1,6 +1,6 @@
-## Welcome! 😎
+## Welcome to the show! 😎
 
-YoWise here
+🎙️ Yowise here  
 
 🌱 I’m currently learning: 
 <img src = "https://github.com/user-attachments/assets/7e19fd20-cec6-45ed-887a-47c6e4cf78f8" width="30" height="30">
